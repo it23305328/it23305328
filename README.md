@@ -29,4 +29,3 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it23305328&show_icons=true&locale=en&layout=compact" alt="it23305328" /></p>
