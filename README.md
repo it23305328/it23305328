@@ -1,3 +1,4 @@
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <h1 align="center">Hi 👋, I'm Muditha Madushanka</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
