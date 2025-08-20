@@ -3,7 +3,7 @@
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
          width="80px" 
          alt="about me gif"
-         style="display:block; margin-left:150px;">
+         style="display:block; margin-left:350px;">
   </picture>
 </div>
 <h1 align="center">Hi 👋, I'm Muditha Madushanka</h1>
