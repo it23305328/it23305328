@@ -1,19 +1,15 @@
-<div>
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-         width="80px" 
-         alt="about me gif"
-         style="display:block; margin-left:350px;">
-  </picture>
-</div>
-<h1 align="center">Hi 👋, I'm Muditha Madushanka</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it23305328&label=Profile%20views&color=0e75b6&style=flat" alt="it23305328" /> </p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Muditha Madushanka</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it23305328&label=Profile%20views&color=0e75b6&style=flat" alt="it23305328" /> </p>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **Mern stack**
 
 - 💬 Ask me about **Web Development**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
 - 📫 How to reach me **mudithamadushanka@icloud.com**
 
