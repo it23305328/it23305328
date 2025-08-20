@@ -1,7 +1,7 @@
 <div style="text-align: center;">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" 
-         width="50px" 
+         width="80px" 
          alt="about me gif">
   </picture>
 </div>
